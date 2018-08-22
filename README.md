@@ -1,3 +1,2 @@
-# python_graph
-
-plz install matplotlib
+# python_plotting_program
+# plz install matplotlib
